@@ -45,7 +45,7 @@ color: purple;
 main{
     height: 100vh;
     width: 100%;
-    background-image: url(../imagenes/fondook.jpg);
+    background-color: beige;
 }
 footer{
     background-color: black;

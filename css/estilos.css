@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 140px;
+}
+.tittle{
+    font-size: 30px;
+    padding-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    background-color: green;
+    padding-left: 10px;
+}
+.subtitulo{
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    padding-left: 10px;
+}
+.tittle span{
+    color: blue;
+}
+hr{
+    font-size: large;
+}
+.navegacion{
+    float:right;
+}
+header ul li{
+    list-style: none;
+    display: inline-block;
+    
+}
+header .navegacion{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 12px;
+}
+.navegacion:hover{
+color: purple;
+}
+main{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../imagenes/fondook.jpg);
+}
+footer{
+    background-color: black;
+    color: white;
+}
+img{
+    padding-left: 30px;
+}
+h2{
+    padding-top: 50px;
+    display: inline-block;
+    padding-left: 20px;
+}
+header ul li a{
+color: black;
+font-weight: bolder;
+}
+header a:hover{
+    color: white;
+}
+.titpag1{
+    padding-top: 20px;
+}
+fieldset{
+    text-transform: capitalize;
+    padding-left: 400px;
+}
+legend{
+    padding-left: 80px;
+    padding-top: 10px;
+}
+.primero{
+    padding-top: 100px;
+}
+h1{
+    text-transform: capitalize;
+}
+
+
+
